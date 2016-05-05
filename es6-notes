@@ -1,0 +1,13 @@
+'let' do not hoist like 'var'
+'let' scoped on 'for' loops despite outside curly-braces
+'let' on 'for' loops sets an isolated scope every iteration
+'const' do not let reassign the reference but the inner props still mutable
+'const' use block scope
+'=>' are not new-able as es5
+'=>' has no arguments object
+'=>' are different from 'functions'
+'destructuring' object seems ugly, ask when developing with others
+spread operator '...array' to destruct elements of an array
+'string templates' ask when developing with others
+'tags on string templates' ask when developing with others
+beware of non-standard unicode characters on loops
